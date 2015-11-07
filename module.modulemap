@@ -1,0 +1,4 @@
+framework module AwesomeLib {
+  umbrella header "AwesomeLib/AwesomeLib.h"
+  module * { export * }
+}
